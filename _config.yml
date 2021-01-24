@@ -29,6 +29,8 @@ github_username:  afonsolage
 
 # Build settings
 theme: jekyll-theme-midnight
+remote_theme: 
+  remote_theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
