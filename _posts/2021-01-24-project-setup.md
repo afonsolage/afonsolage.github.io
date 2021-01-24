@@ -1,5 +1,5 @@
 ---
-layout:	post
+layout:	posts
 title:	Project Setup!
 date:	2021-01-24 10:15:33 -0300
 ---
