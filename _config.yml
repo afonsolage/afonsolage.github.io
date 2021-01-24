@@ -31,7 +31,7 @@ twitter_username: afonsolage
 github_username:  afonsolage
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
