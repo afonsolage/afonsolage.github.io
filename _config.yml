@@ -21,10 +21,7 @@
 title: Skyon Devlog
 email: lage.afonso@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Devlog for the currently in-development MMORPG Skyon. This is a personal
-  log showing many development challanges, insigths, knowledge and decisions.
-  It doesn't aim to be a learning source or some kind of tutorial, but maybe
-  you can learn something new here.
+  Devlog for the currently in-development Sandbox MMORPG Skyon
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: afonsolage
