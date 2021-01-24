@@ -1,7 +1,7 @@
 ---
-layout: default
-title:  "Project Setup!"
-date:   2021-01-24 10:15:33 -0300
+layout:	post
+title:	Project Setup!
+date:	2021-01-24 10:15:33 -0300
 ---
 
 This is the start of a long journey. Creating a Sandbox MMORPG as a hobby game developer, won't be easy, but challenge is all the joy. That said, I started this devlog in order
